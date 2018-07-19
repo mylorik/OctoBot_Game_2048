@@ -1,6 +1,8 @@
 ﻿/*
-This logic is made by https://github.com/petrspelos 
+This File (logic to be exact) is made by https://github.com/petrspelos 
 I just changed it a little bit to fit my need and fix some problems
+
+All other files were made from scratch to fit Discord API.
 */
 
 using System;
